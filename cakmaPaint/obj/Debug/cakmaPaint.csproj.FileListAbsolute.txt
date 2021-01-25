@@ -1,0 +1,44 @@
+C:\Users\Hasan\source\repos\cakmaPaint\cakmaPaint\bin\Debug\cakmaPaint.exe.config
+C:\Users\Hasan\source\repos\cakmaPaint\cakmaPaint\bin\Debug\cakmaPaint.exe
+C:\Users\Hasan\source\repos\cakmaPaint\cakmaPaint\bin\Debug\cakmaPaint.pdb
+C:\Users\Hasan\source\repos\cakmaPaint\cakmaPaint\obj\Debug\cakmaPaint.csprojAssemblyReference.cache
+C:\Users\Hasan\source\repos\cakmaPaint\cakmaPaint\obj\Debug\cakmaPaint.Form1.resources
+C:\Users\Hasan\source\repos\cakmaPaint\cakmaPaint\obj\Debug\cakmaPaint.Properties.Resources.resources
+C:\Users\Hasan\source\repos\cakmaPaint\cakmaPaint\obj\Debug\cakmaPaint.csproj.GenerateResource.cache
+C:\Users\Hasan\source\repos\cakmaPaint\cakmaPaint\obj\Debug\cakmaPaint.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\source\repos\cakmaPaint\cakmaPaint\obj\Debug\cakmaPaint.exe
+C:\Users\Hasan\source\repos\cakmaPaint\cakmaPaint\obj\Debug\cakmaPaint.pdb
+C:\Users\Hasan\source\repos\cakmaPaint\cakmaPaint\obj\Debug\cakmaPaint.boyutForm.resources
+C:\Users\Speed\Desktop\Ödevler\Görsel Programlama\paint\cakmaPaint\cakmaPaint\bin\Debug\cakmaPaint.exe.config
+C:\Users\Speed\Desktop\Ödevler\Görsel Programlama\paint\cakmaPaint\cakmaPaint\bin\Debug\cakmaPaint.exe
+C:\Users\Speed\Desktop\Ödevler\Görsel Programlama\paint\cakmaPaint\cakmaPaint\bin\Debug\cakmaPaint.pdb
+C:\Users\Speed\Desktop\Ödevler\Görsel Programlama\paint\cakmaPaint\cakmaPaint\obj\Debug\cakmaPaint.csprojAssemblyReference.cache
+C:\Users\Speed\Desktop\Ödevler\Görsel Programlama\paint\cakmaPaint\cakmaPaint\obj\Debug\cakmaPaint.boyutForm.resources
+C:\Users\Speed\Desktop\Ödevler\Görsel Programlama\paint\cakmaPaint\cakmaPaint\obj\Debug\cakmaPaint.Form1.resources
+C:\Users\Speed\Desktop\Ödevler\Görsel Programlama\paint\cakmaPaint\cakmaPaint\obj\Debug\cakmaPaint.Properties.Resources.resources
+C:\Users\Speed\Desktop\Ödevler\Görsel Programlama\paint\cakmaPaint\cakmaPaint\obj\Debug\cakmaPaint.csproj.GenerateResource.cache
+C:\Users\Speed\Desktop\Ödevler\Görsel Programlama\paint\cakmaPaint\cakmaPaint\obj\Debug\cakmaPaint.csproj.CoreCompileInputs.cache
+C:\Users\Speed\Desktop\Ödevler\Görsel Programlama\paint\cakmaPaint\cakmaPaint\obj\Debug\cakmaPaint.exe
+C:\Users\Speed\Desktop\Ödevler\Görsel Programlama\paint\cakmaPaint\cakmaPaint\obj\Debug\cakmaPaint.pdb
+C:\Users\Speed\Desktop\Ödevler\Görsel Programlama\1915010014-Paint\cakmaPaint\cakmaPaint\bin\Debug\cakmaPaint.exe.config
+C:\Users\Speed\Desktop\Ödevler\Görsel Programlama\1915010014-Paint\cakmaPaint\cakmaPaint\bin\Debug\cakmaPaint.exe
+C:\Users\Speed\Desktop\Ödevler\Görsel Programlama\1915010014-Paint\cakmaPaint\cakmaPaint\bin\Debug\cakmaPaint.pdb
+C:\Users\Speed\Desktop\Ödevler\Görsel Programlama\1915010014-Paint\cakmaPaint\cakmaPaint\obj\Debug\cakmaPaint.csprojAssemblyReference.cache
+C:\Users\Speed\Desktop\Ödevler\Görsel Programlama\1915010014-Paint\cakmaPaint\cakmaPaint\obj\Debug\cakmaPaint.boyutForm.resources
+C:\Users\Speed\Desktop\Ödevler\Görsel Programlama\1915010014-Paint\cakmaPaint\cakmaPaint\obj\Debug\cakmaPaint.Form1.resources
+C:\Users\Speed\Desktop\Ödevler\Görsel Programlama\1915010014-Paint\cakmaPaint\cakmaPaint\obj\Debug\cakmaPaint.Properties.Resources.resources
+C:\Users\Speed\Desktop\Ödevler\Görsel Programlama\1915010014-Paint\cakmaPaint\cakmaPaint\obj\Debug\cakmaPaint.csproj.GenerateResource.cache
+C:\Users\Speed\Desktop\Ödevler\Görsel Programlama\1915010014-Paint\cakmaPaint\cakmaPaint\obj\Debug\cakmaPaint.csproj.CoreCompileInputs.cache
+C:\Users\Speed\Desktop\Ödevler\Görsel Programlama\1915010014-Paint\cakmaPaint\cakmaPaint\obj\Debug\cakmaPaint.exe
+C:\Users\Speed\Desktop\Ödevler\Görsel Programlama\1915010014-Paint\cakmaPaint\cakmaPaint\obj\Debug\cakmaPaint.pdb
+C:\Users\Speed\Desktop\MASAÜSTÜ\EMİRHAN\BİLGİSAYAR PROG.1.S-2.D\Final\Görsel Programlama\1915010014-Paint\cakmaPaint\cakmaPaint\bin\Debug\cakmaPaint.exe.config
+C:\Users\Speed\Desktop\MASAÜSTÜ\EMİRHAN\BİLGİSAYAR PROG.1.S-2.D\Final\Görsel Programlama\1915010014-Paint\cakmaPaint\cakmaPaint\bin\Debug\cakmaPaint.exe
+C:\Users\Speed\Desktop\MASAÜSTÜ\EMİRHAN\BİLGİSAYAR PROG.1.S-2.D\Final\Görsel Programlama\1915010014-Paint\cakmaPaint\cakmaPaint\bin\Debug\cakmaPaint.pdb
+C:\Users\Speed\Desktop\MASAÜSTÜ\EMİRHAN\BİLGİSAYAR PROG.1.S-2.D\Final\Görsel Programlama\1915010014-Paint\cakmaPaint\cakmaPaint\obj\Debug\cakmaPaint.csprojAssemblyReference.cache
+C:\Users\Speed\Desktop\MASAÜSTÜ\EMİRHAN\BİLGİSAYAR PROG.1.S-2.D\Final\Görsel Programlama\1915010014-Paint\cakmaPaint\cakmaPaint\obj\Debug\cakmaPaint.boyutForm.resources
+C:\Users\Speed\Desktop\MASAÜSTÜ\EMİRHAN\BİLGİSAYAR PROG.1.S-2.D\Final\Görsel Programlama\1915010014-Paint\cakmaPaint\cakmaPaint\obj\Debug\cakmaPaint.Form1.resources
+C:\Users\Speed\Desktop\MASAÜSTÜ\EMİRHAN\BİLGİSAYAR PROG.1.S-2.D\Final\Görsel Programlama\1915010014-Paint\cakmaPaint\cakmaPaint\obj\Debug\cakmaPaint.Properties.Resources.resources
+C:\Users\Speed\Desktop\MASAÜSTÜ\EMİRHAN\BİLGİSAYAR PROG.1.S-2.D\Final\Görsel Programlama\1915010014-Paint\cakmaPaint\cakmaPaint\obj\Debug\cakmaPaint.csproj.GenerateResource.cache
+C:\Users\Speed\Desktop\MASAÜSTÜ\EMİRHAN\BİLGİSAYAR PROG.1.S-2.D\Final\Görsel Programlama\1915010014-Paint\cakmaPaint\cakmaPaint\obj\Debug\cakmaPaint.csproj.CoreCompileInputs.cache
+C:\Users\Speed\Desktop\MASAÜSTÜ\EMİRHAN\BİLGİSAYAR PROG.1.S-2.D\Final\Görsel Programlama\1915010014-Paint\cakmaPaint\cakmaPaint\obj\Debug\cakmaPaint.exe
+C:\Users\Speed\Desktop\MASAÜSTÜ\EMİRHAN\BİLGİSAYAR PROG.1.S-2.D\Final\Görsel Programlama\1915010014-Paint\cakmaPaint\cakmaPaint\obj\Debug\cakmaPaint.pdb
